@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/917ab151-aea9-4c12-a32d-4828e7592cdc/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/getSkillsBackEnd",
+    "appService.deploySubpath": "Api\\challengeBackend"
+}
